@@ -1,4 +1,4 @@
-### Example plain PHP template for crawler\parser
+# Example plain PHP template for crawler\parser
 This is just a backbone.
 
 It can grab data by url, parse it using xpath, and save result in json file.
