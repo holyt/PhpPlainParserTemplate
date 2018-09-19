@@ -1,0 +1,14 @@
+{
+    "name": "holyt/clear-parser",
+    "authors": [
+        {
+            "name": "holyt"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
